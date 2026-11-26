@@ -1,0 +1,6 @@
+# Dependencias directas verificadas en Python 3.13.5.
+numpy==2.3.5
+sympy==1.14.0
+matplotlib==3.10.8
+ipython==9.14.0
+matplotlib-inline==0.2.2
